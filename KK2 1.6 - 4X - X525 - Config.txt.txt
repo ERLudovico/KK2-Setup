@@ -1,0 +1,239 @@
+############################
+# KK2 1.6 - 4X X525
+############################
+**********************
+*    SAFE SCREEN     *
+**********************
+Menu
+----------------------
+          |
+          V
+
+**********************
+* PI Editor
+**********************
+/---------------------\
+  AX: ROLL (aileron)
+\---------------------/
+P gain :
+P limit:
+
+I gain :
+I limit:
+**********************
+/---------------------\
+ AX: PITCH (elevator)
+\---------------------/
+P gain :
+P limit:
+
+I gain :
+I limit:
+**********************
+/---------------------\
+   AX: YAW (rudder)
+\---------------------/
+P gain :
+P limit:
+
+I gain :
+I limit:
+----------------------
+          |
+          V
+
+**********************
+* RECEIVER TEST
+**********************
+Aileron   :
+Elevator  :
+Throttle  :
+Rudder    :
+Auxilliary:
+----------------------
+          |
+          V
+
+**********************
+* MODE SETTINGS
+**********************
+Self-level     :
+Link Roll Pitch:
+Auto Disarm    :
+CPPM Enabled   :
+----------------------
+          |
+          V
+
+**********************
+* STICK SCALING
+**********************
+Roll  (Aileron)  :
+Pitch (Elevator) :
+Yaw   (Rudder)   :
+Throttle         :
+----------------------
+          |
+          V
+
+**********************
+* MISC SETTINGS
+**********************
+Minimum throttle:
+Height dampening:
+Height D limit  :
+Alarm 1/10 volt :
+Servo Filter    :
+----------------------
+          |
+          V
+
+**********************
+* SELF LEVEL SETTINGS
+**********************
+P gain        :
+I gain        :
+ACC trim roll :
+ACC trim pitch:
+----------------------
+          |
+          V
+
+**********************
+* CAMERA STAB SETUP
+**********************
+Roll gain   :
+Roll offset :
+Pitch gain  :
+Pitch offset:
+----------------------
+          |
+          V
+
+**********************
+* SENSOR TEST
+**********************
+Gyro X:
+Gyro Y:
+Gyro Z:
+ACC  X:
+ACC  Y:
+----------------------
+          |
+          V
+
+**********************
+* ACC Calibration
+**********************
+----------------------
+          |
+          V
+
+**********************
+* CPPM SETTINGS
+**********************
+Roll(ail) :
+Pitch(ele):
+Throttle  :
+Yaw(rud)  :
+Aux       :
+----------------------
+          |
+          V
+
+**********************
+* MIXER EDITOR
+**********************
+/---------------------\
+ Mixer Editor    CH: 1
+\---------------------/
+Throttle:
+Aileron :
+Elevator:
+Rudder  :
+Offset  :
+Type    :        Rate:
+/---------------------\
+ Mixer Editor    CH: 2
+\---------------------/
+Throttle:
+Aileron :
+Elevator:
+Rudder  :
+Offset  :
+Type    :        Rate:
+/---------------------\
+ Mixer Editor    CH: 3
+\---------------------/
+Throttle:
+Aileron :
+Elevator:
+Rudder  :
+Offset  :
+Type    :        Rate:
+/---------------------\
+ Mixer Editor    CH: 4
+\---------------------/
+Throttle:
+Aileron :
+Elevator:
+Rudder  :
+Offset  :
+Type    :        Rate:
+----------------------
+          |
+          V
+
+**********************
+* SHOW MOTOR LAYOUT
+**********************
+----------------------
+          |
+          V
+
+**********************
+* LOAD MOTOR LAYOUT
+**********************
+----------------------
+          |
+          V
+
+**********************
+* DEBUG
+**********************
+----------------------
+          |
+          V
+
+**********************
+* FACTORY RESET
+**********************
+----------------------
+          |
+          V
+
+**********************
+*    SAFE SCREEN     *
+**********************
+----------------------
+          |
+          V
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
