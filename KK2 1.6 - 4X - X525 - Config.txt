@@ -16,29 +16,29 @@ Menu
 /---------------------\
   AX: ROLL (aileron)
 \---------------------/
-P gain :
-P limit:
+P gain : 30
+P limit: 60
 
-I gain :
-I limit:
+I gain : 20
+I limit: 15
 **********************
 /---------------------\
  AX: PITCH (elevator)
 \---------------------/
-P gain :
-P limit:
+P gain : 30
+P limit: 60
 
-I gain :
-I limit:
+I gain : 20
+I limit: 15
 **********************
 /---------------------\
    AX: YAW (rudder)
 \---------------------/
-P gain :
-P limit:
+P gain : 30
+P limit: 20
 
-I gain :
-I limit:
+I gain : 20
+I limit: 10
 ----------------------
           |
           V
@@ -58,10 +58,10 @@ Auxilliary:
 **********************
 * MODE SETTINGS
 **********************
-Self-level     :
-Link Roll Pitch:
-Auto Disarm    :
-CPPM Enabled   :
+Self-level     : AUX
+Link Roll Pitch: Yes
+Auto Disarm    : Yes
+CPPM Enabled   : No
 ----------------------
           |
           V
@@ -69,10 +69,10 @@ CPPM Enabled   :
 **********************
 * STICK SCALING
 **********************
-Roll  (Aileron)  :
-Pitch (Elevator) :
-Yaw   (Rudder)   :
-Throttle         :
+Roll  (Aileron)  : 30
+Pitch (Elevator) : 30
+Yaw   (Rudder)   : 50
+Throttle         : 90
 ----------------------
           |
           V
@@ -80,11 +80,11 @@ Throttle         :
 **********************
 * MISC SETTINGS
 **********************
-Minimum throttle:
-Height dampening:
-Height D limit  :
-Alarm 1/10 volt :
-Servo Filter    :
+Minimum throttle: 10
+Height dampening:  6
+Height D limit  : 30
+Alarm 1/10 volt :  0
+Servo Filter    : 50
 ----------------------
           |
           V
@@ -92,10 +92,10 @@ Servo Filter    :
 **********************
 * SELF LEVEL SETTINGS
 **********************
-P gain        :
-I gain        :
-ACC trim roll :
-ACC trim pitch:
+P gain        : 40
+I gain        : 30
+ACC trim roll :  0
+ACC trim pitch: -2
 ----------------------
           |
           V
@@ -103,10 +103,10 @@ ACC trim pitch:
 **********************
 * CAMERA STAB SETUP
 **********************
-Roll gain   :
-Roll offset :
-Pitch gain  :
-Pitch offset:
+Roll gain   :  0
+Roll offset : 50
+Pitch gain  :  0
+Pitch offset: 50
 ----------------------
           |
           V
@@ -133,7 +133,7 @@ ACC  Y:
 **********************
 * CPPM SETTINGS
 **********************
-Roll(ail) :
+Roll(ail) : 
 Pitch(ele):
 Throttle  :
 Yaw(rud)  :
@@ -148,39 +148,39 @@ Aux       :
 /---------------------\
  Mixer Editor    CH: 1
 \---------------------/
-Throttle:
-Aileron :
-Elevator:
-Rudder  :
-Offset  :
-Type    :        Rate:
+Throttle: 100
+Aileron : -71 
+Elevator:  71
+Rudder  : 100
+Offset  :   0
+Type    : ESC    Rate: HIGH
 /---------------------\
  Mixer Editor    CH: 2
 \---------------------/
-Throttle:
-Aileron :
-Elevator:
-Rudder  :
-Offset  :
-Type    :        Rate:
+Throttle: 100
+Aileron :  71
+Elevator:  71 
+Rudder  :-100
+Offset  :   0
+Type    : ESC    Rate: HIGH
 /---------------------\
  Mixer Editor    CH: 3
 \---------------------/
-Throttle:
-Aileron :
-Elevator:
-Rudder  :
-Offset  :
-Type    :        Rate:
+Throttle: 100
+Aileron :  71
+Elevator: -71
+Rudder  : 100
+Offset  :   0
+Type    : ESC    Rate: HIGH
 /---------------------\
  Mixer Editor    CH: 4
 \---------------------/
-Throttle:
-Aileron :
-Elevator:
-Rudder  :
-Offset  :
-Type    :        Rate:
+Throttle: 100
+Aileron : -71
+Elevator: -71
+Rudder  :-100
+Offset  :   0
+Type    : ESC    Rate: HIGH
 ----------------------
           |
           V
